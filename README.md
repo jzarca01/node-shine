@@ -41,8 +41,20 @@ Voir l'[example](example/index.js)
 
 ## Méthodes
 
+### Get Profile
+
+```javascript
+const profile = shine.getProfile();
+```
+
 ### Get Company Profile
 
 ```javascript
 const companyProfile = shine.getCompanyProfile();
+```
+
+### Search company
+
+```javascript
+const results = shine.searchCompany(searchTerm);
 ```

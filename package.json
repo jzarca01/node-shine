@@ -1,7 +1,7 @@
 {
   "name": "node-shine",
   "description": "Une API pour la banque en ligne Shine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "directories": {
     "example": "example",
