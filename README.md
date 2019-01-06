@@ -1,6 +1,6 @@
 # node-shine
 
-Une API pour la banque en ligne ![Shine](https://www.shine.fr/)
+Une API pour la banque en ligne [Shine](https://www.shine.fr/)
 
 ## Usage
 
