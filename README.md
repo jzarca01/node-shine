@@ -5,8 +5,8 @@ Une API pour la banque en ligne ![Shine](https://www.shine.fr/)
 ## Usage
 
 ```javascript
-const Shine = require('node-shine)
-const shine = new Shine()
+const Shine = require('node-shine');
+const shine = new Shine();
 ```
 
 ## Example
