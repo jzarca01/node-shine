@@ -1,0 +1,22 @@
+{
+  "name": "node-shine",
+  "description": "Une API pour la banque en ligne Shine",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apollo-fetch": "^0.7.0",
+    "axios": "^0.18.0",
+    "faker": "^4.1.0",
+    "prompt-async": "^0.9.9"
+  },
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "license": "ISC"
+}
